@@ -1,0 +1,4 @@
+requests
+pushbullet.py
+beautifulsoup
+python-firebase
